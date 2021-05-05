@@ -1,3 +1,5 @@
+Zipped project: https://drive.google.com/file/d/1iOFUL_3wroLNfgNTjkSd-62glvG39V0t/view?usp=sharing
+
 # EcommerceApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
